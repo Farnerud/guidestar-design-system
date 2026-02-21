@@ -1,1 +1,15 @@
 /* Design tokens - Spacing */
+
+:root {
+  /* Spacing */
+  --spacing-space-sm: 8px;
+  --spacing-space-md: 12px;
+  --spacing-space-lg: 16px;
+
+  /* Border Radius */
+  --radius-radius-sm: 8px;
+  --radius-radius-lg: 24px;
+
+  /* Border Width */
+  --border-width-sm: 1px;
+}
