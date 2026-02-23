@@ -1,3 +1,7 @@
+import '../src/tokens/colors.css';
+import '../src/tokens/typography.css';
+import '../src/tokens/spacing.css';
+
 /** @type { import('@storybook/react-vite').Preview } */
 const preview = {
   parameters: {
