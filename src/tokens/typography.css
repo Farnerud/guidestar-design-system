@@ -1,1 +1,22 @@
 /* Design tokens - Typography */
+
+:root {
+  /* Font Families */
+  --font-family-body: "Inter", sans-serif;
+
+  /* Font Weights */
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  /* Font Sizes */
+  --h5-font-size: 24px;
+  --h6-font-size: 20px;
+  --paragraph-md-font-size: 16px;
+  --paragraph-sm-font-size: 14px;
+  --paragraph-xsm-font-size: 12px;
+
+  /* Line Heights */
+  --h5-line-height: 28px;
+  --paragraph-md-line-height: 20px;
+  --paragraph-sm-line-height: 16px;
+}

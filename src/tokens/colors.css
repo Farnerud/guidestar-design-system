@@ -1,1 +1,23 @@
 /* Design tokens - Colors */
+
+:root {
+  /* Surface */
+  --surface-action: #5043e5;
+  --surface-page: #ffffff;
+
+  /* Text */
+  --text-headings: #131416;
+  --text-body: #202124;
+  --text-soft-body: #767779;
+  --text-placeholder: #767779;
+  --text-on-action: #ffffff;
+  --text-action: #5043e5;
+
+  /* Border */
+  --border-default: #e3e3e4;
+  --border-action: #5043e5;
+  --border-action-hover: #7268e9;
+
+  /* Icon */
+  --icon-default: #202124;
+}
